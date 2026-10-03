@@ -8,6 +8,21 @@
   var TESTAMENTS = [['ot', 'Ветхий Завет'], ['nt', 'Новый Завет']];
   var EXAMPLES = ['Юдифь', 'Караваджо', 'Благовещение', 'Noli me tangere'];
 
+  /** Секция «Лекции» (spec_lectures.md §5.5): лекция в процессе — первой, затем по order. Нет лекций — нет секции. */
+  function lecturesSection() {
+    var L = App.lectures, V = App.views.lectures;
+    if (!L || !V) return '';
+    var list = L.list();
+    if (!list.length) return '';
+    var rank = function (l) { var st = L.status(l.id); return st.state === 'progress' ? (L.progress(l.id) || {}).ts || 1 : 0; };
+    var ranked = list.map(function (l, i) { return { l: l, r: rank(l), i: i }; })
+      .sort(function (a, b) { return (b.r - a.r) || (a.i - b.i); });
+    return '<section class="home-lectures" aria-labelledby="h-lectures"><div class="home-lectures__head">' +
+      '<h2 class="home-lectures__h" id="h-lectures">Лекции</h2>' +
+      '<a class="home-lectures__all" href="#/lectures">Все лекции</a></div>' +
+      '<ul class="grid grid--lectures">' + ranked.slice(0, 4).map(function (x) { return V.card(x.l, true); }).join('') + '</ul></section>';
+  }
+
   function render() {
     var st = App.store, ui = App.ui, D = st.data;
     var html = '<section class="hero">' +
@@ -18,7 +33,7 @@
         return '<a href="' + esc(App.router.searchHref({ q: q })) + '">' + esc(q) + '</a>';
       }).join(', ') + '</p>' +
       '</section>' +
-      '<div data-slot="recent"></div>' +
+      '<div data-slot="recent"></div>' + lecturesSection() +
       '<nav class="catalog-nav" aria-label="Разделы каталога">' + TESTAMENTS.map(function (t) {
         return '<a class="chip" href="#catalog-' + t[0] + '" data-anchor>' + esc(t[1]) + '</a>';
       }).join('') + '<span class="catalog-nav__count">' +

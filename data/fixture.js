@@ -1,11 +1,12 @@
 // Сгенерировано tools/build_data.py — руками не править (spec.md §3).
 window.DATA = {
  "meta": {
-  "version": "2026-10-02",
+  "version": "2026-10-03",
   "public_base_url": "",
   "counts": {
    "subjects": 3,
-   "paintings": 9
+   "paintings": 9,
+   "lectures": 1
   },
   "draft": true
  },
@@ -992,6 +993,43 @@ window.DATA = {
     {
      "field": "museum",
      "url": "https://www.museodelprado.es/"
+    }
+   ],
+   "check": {
+    "status": "draft"
+   }
+  }
+ },
+ "lectures": {
+  "demo": {
+   "order": 1,
+   "title": "Демо-лекция: весть и испытание",
+   "subtitle": "Три сюжета fixture, шесть шагов",
+   "lead": "Тестовая лекция для разработки: проходит по трём сюжетам fixture, показывает шаг без сюжета, шаг с двумя картинами и повтор сюжета с другой картиной.",
+   "cover": "annunciation-fra-angelico-prado",
+   "minutes": 3,
+   "steps": [
+    {
+     "title": "Вступление"
+    },
+    {
+     "title": "Благовещение",
+     "subject": "annunciation"
+    },
+    {
+     "title": "Испытание Авраама: две версии",
+     "subject": "sacrifice-isaac"
+    },
+    {
+     "title": "Юдифь и Олоферн",
+     "subject": "judith-holofernes"
+    },
+    {
+     "title": "Благовещение ещё раз",
+     "subject": "annunciation"
+    },
+    {
+     "title": "Итог"
     }
    ],
    "check": {

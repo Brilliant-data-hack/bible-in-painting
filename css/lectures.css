@@ -1,0 +1,164 @@
+/* lectures.css — лекции: список, карточки, блок на главной (spec_lectures.md §5.1, §5.5, §5.6).
+   Существующие компоненты (card, chip, attribution) не переопределяются — только модификаторы. */
+
+/* Сетка: 1 колонка на телефоне, 2 — от 600 px, 4 — от 1280 px */
+.grid--lectures { grid-template-columns: minmax(0, 1fr); }
+
+/* Карточка лекции */
+.card--lecture .card__link { min-height: 44px; }
+.card--lecture .card__img { aspect-ratio: 16 / 10; }
+.card--lecture .card__body { flex: 1; gap: 4px; padding: 14px 16px 16px; }
+.card--lecture .card__title { overflow-wrap: anywhere; }
+.card__eyebrow { font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.card__sub { font-size: .92rem; line-height: 1.4; color: var(--muted); overflow-wrap: anywhere; }
+.card__foot { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: auto; padding-top: 8px; }
+.card__foot .card__meta { margin-top: 0; }
+
+/* Статус прохождения: цветная метка с текстом (цвет — не единственный носитель) */
+.lstatus { display: inline-flex; align-items: center; gap: 4px; padding: 2px 10px; border-radius: 999px; font-size: .8rem; font-weight: 600; line-height: 1.5; white-space: nowrap; }
+.lstatus--progress { background: var(--accent-soft); color: var(--accent); }
+.lstatus--done { background: #e4eee0; color: #2f5a27; }
+
+/* Экран списка */
+.lectures .page__head { padding-bottom: 20px; }
+.lectures__intro { max-width: 36em; margin: 0; color: var(--muted); }
+
+/* Блок на главной */
+.home-lectures { margin: 8px 0 28px; }
+.home-lectures__head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
+.home-lectures__h { margin: 0; font-size: 1.2rem; }
+.home-lectures__all { display: inline-flex; align-items: center; min-height: 44px; padding: 0 4px; font-size: .95rem; }
+
+/* Компактная карточка на телефоне: миниатюра 96 px + текст */
+@media (max-width: 599.98px) {
+  .card--lecture-compact .card__link { flex-direction: row; align-items: stretch; }
+  .card--lecture-compact .card__img { flex: 0 0 96px; width: 96px; aspect-ratio: auto; min-height: 96px; }
+  .card--lecture-compact .card__img img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .card--lecture-compact .card__body { min-width: 0; padding: 10px 12px 12px; gap: 2px; }
+  .card--lecture-compact .card__eyebrow { display: none; }
+  .card--lecture-compact .card__title { font-size: 1.02rem; }
+  .card--lecture-compact .card__sub { font-size: .85rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card--lecture-compact .card__foot { padding-top: 6px; }
+}
+/* Шапка на телефоне: «Лекции» важнее, «О проекте» остаётся в подвале */
+@media (max-width: 479.98px) {
+  .site-nav__link--lectures ~ .site-nav__link { display: none; }
+  .brand { font-size: 1.05rem; gap: 8px; }
+}
+
+@media (min-width: 600px) {
+  .grid--lectures { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 1280px) {
+  .grid--lectures { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* ================= F2: обложка, шаг, финал (spec_lectures.md §5.2–5.4, §5.6) ================= */
+.lecture { max-width: 760px; margin: 0 auto; padding-bottom: 8px; }
+.lecture h1, .lecture h2, .lfig__title, .lnav__name { overflow-wrap: anywhere; }
+
+/* Картина-кнопка для просмотрщика */
+.lzoom { position: relative; display: block; width: 100%; padding: 12px; border: 0; border-radius: var(--radius); background: var(--mat); cursor: zoom-in; --fit-h: calc(70vh - 24px); }
+.lzoom .img-wrap { background: transparent; max-width: 100%; }
+.lzoom-hint { position: absolute; right: 18px; bottom: 18px; display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; border-radius: 999px; background: rgba(31, 27, 22, .72); color: #fff; font-size: .8rem; }
+.lzoom:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+/* Обложка */
+.lcover__hero { display: grid; gap: 16px; padding-top: 16px; }
+.lcover__head { min-width: 0; }
+.lcover__zoom { --fit-h: 56vh; }
+.lcover__title { margin: 0 0 6px; font-size: 2rem; }
+.lcover__sub { margin: 0; font-size: 1.08rem; color: var(--muted); }
+.lcover__lead { margin: 0 0 12px; font-size: 1.05rem; line-height: 1.6; }
+.lcover__meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0; font-size: .95rem; color: var(--muted); }
+.lcover__actions .btn { min-height: 48px; padding: 0 22px; }
+.lcover__toc { margin-top: 32px; }
+.lcover__toc h2 { font-size: 1.3rem; }
+.ltoc { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.ltoc__item { border-bottom: 1px solid var(--line); }
+.ltoc__link { display: flex; align-items: center; gap: 14px; min-height: 48px; padding: 10px 4px; color: var(--text); text-decoration: none; }
+.ltoc__link:hover .ltoc__t { color: var(--accent); }
+.ltoc__n { flex: 0 0 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; background: var(--surface); border: 1px solid var(--line); font-size: .85rem; font-variant-numeric: tabular-nums; color: var(--muted); }
+.ltoc__t { flex: 1; min-width: 0; line-height: 1.35; overflow-wrap: anywhere; }
+.ltoc__mark { flex: 0 0 auto; color: #2f5a27; font-weight: 700; }
+.ltoc__here { flex: 0 0 auto; padding: 2px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: .8rem; font-weight: 600; }
+.ltoc__item.is-passed .ltoc__t { color: var(--muted); }
+.ltoc__item.is-passed .ltoc__n { background: #e4eee0; border-color: #cfdfc8; color: #2f5a27; }
+.ltoc__item.is-here .ltoc__n { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+/* Шаг */
+.lstep__bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 4px 16px; padding-top: 14px; font-size: .9rem; color: var(--muted); }
+.lstep__lecture { display: inline-flex; align-items: center; min-height: 44px; min-width: 0; color: var(--muted); overflow-wrap: anywhere; }
+.lstep__lecture:hover { color: var(--accent); }
+.lstep__pos { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.lstep__progress { display: block; width: 100%; height: 4px; margin: 2px 0 20px; border: 0; border-radius: 2px; background: var(--line); color: var(--accent); -webkit-appearance: none; appearance: none; overflow: hidden; }
+.lstep__progress::-webkit-progress-bar { background: var(--line); border-radius: 2px; }
+.lstep__progress::-webkit-progress-value { background: var(--accent); border-radius: 2px; transition: width .3s ease; }
+.lstep__progress::-moz-progress-bar { background: var(--accent); }
+.lstep__title { margin: 0 0 20px; font-size: 1.85rem; }
+.lstep__figs { display: grid; grid-template-columns: minmax(0, 1fr); gap: 24px; margin-bottom: 28px; }
+.lfig { margin: 0; min-width: 0; }
+.lfig__cap { display: flex; flex-direction: column; gap: 2px; padding: 10px 2px 0; }
+.lfig__title { font-family: var(--font-serif); font-size: 1.05rem; font-weight: 600; line-height: 1.3; }
+.lfig__look { margin-top: 6px; font-size: .95rem; line-height: 1.5; }
+.lfig__more { align-self: flex-start; display: inline-flex; align-items: center; min-height: 44px; font-size: .92rem; }
+.lstep__text { font-size: 1.1rem; line-height: 1.65; }
+.lstep__text p { margin: 0 0 1em; }
+.lstep__quote { margin-top: 8px; }
+.lstep__quote cite { font-style: normal; }
+.lstep__subject { margin-top: 28px; }
+.lstep__state { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin: 8px 0 24px; padding: 24px; border-radius: var(--radius); background: var(--surface); color: var(--muted); }
+.lstep__state p { margin: 0; }
+.lstep__state--busy { flex-direction: row; align-items: center; }
+.lspinner { width: 18px; height: 18px; border: 2px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: lspin .9s linear infinite; }
+@keyframes lspin { to { transform: rotate(360deg); } }
+
+/* Назад / Далее — обычные ссылки, не фиксируются */
+.lnav { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 10px; margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--line); }
+.lnav__link { display: flex; flex-direction: column; justify-content: center; gap: 2px; box-sizing: border-box; width: 100%; min-height: 56px; padding: 10px 14px; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); color: var(--text); text-decoration: none; min-width: 0; }
+.lnav__link--next { align-items: flex-end; text-align: right; background: var(--accent); color: #fff; }
+.lnav__link--next:hover { background: var(--accent-hover); color: #fff; }
+.lnav__dir { font-size: .9rem; font-weight: 600; color: var(--accent); }
+.lnav__link--next .lnav__dir { color: #fff; }
+.lnav__name { max-width: 100%; font-size: .88rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.lnav__link--next .lnav__name { color: rgba(255, 255, 255, .85); }
+
+/* Финал */
+.ldone__head { padding: 36px 0 8px; text-align: center; }
+.ldone__mark { display: inline-flex; align-items: center; justify-content: center; width: 56px; height: 56px; margin-bottom: 12px; border-radius: 50%; background: #e4eee0; color: #2f5a27; font-size: 1.6rem; font-weight: 700; }
+.ldone__title { margin: 0 0 6px; }
+.ldone__name { margin: 0 0 6px; font-family: var(--font-serif); font-size: 1.15rem; }
+.ldone__sum { margin: 0; color: var(--muted); }
+.ldone__actions { justify-content: center; margin-top: 22px; }
+.ldone__actions .btn { min-height: 48px; max-width: 100%; white-space: normal; text-align: center; }
+.ldone__subjects { margin-top: 36px; }
+.ldone__subjects h2 { font-size: 1.3rem; }
+.lsubj { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; }
+.lsubj__link { display: flex; align-items: center; gap: 12px; min-height: 64px; padding: 8px; border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); color: var(--text); text-decoration: none; }
+.lsubj__link:hover .lsubj__t { color: var(--accent); }
+.lsubj__img { flex: 0 0 56px; width: 56px; height: 56px; border-radius: var(--radius-sm); }
+.lsubj__body { display: flex; flex-direction: column; min-width: 0; }
+.lsubj__t { font-family: var(--font-serif); font-weight: 600; line-height: 1.25; overflow-wrap: anywhere; }
+.lsubj__r { font-size: .85rem; color: var(--muted); }
+
+@media (min-width: 600px) {
+  .lsubj { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 900px) {
+  .lcover { max-width: 1040px; }
+  .lcover__hero { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-areas: "media head" "media info"; align-items: center; column-gap: 40px; row-gap: 12px; padding-top: 24px; }
+  .lcover__media { grid-area: media; }
+  .lcover__head { grid-area: head; align-self: end; }
+  .lcover__info { grid-area: info; align-self: start; }
+  .lcover__zoom { --fit-h: 64vh; }
+  .lcover__title { font-size: 2.4rem; }
+  .lcover__toc { max-width: 760px; }
+  .lstep__title { font-size: 2.1rem; }
+  /* Две картины рядом: блок шире колонки текста */
+  .lstep__figs--2 { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; width: min(1040px, calc(100vw - 2 * var(--pad))); margin-left: 50%; transform: translateX(-50%); }
+  .lstep__figs--2 .lzoom { --fit-h: 62vh; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lstep__progress::-webkit-progress-value { transition: none; }
+  .lspinner { animation: none; }
+}

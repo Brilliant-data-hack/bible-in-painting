@@ -36,7 +36,7 @@
   /** Маршрут статической страницы сюжета или картины (tools/prerender.mjs): <body data-prerender="#/subject/x">. */
   function prerendered() { return (document.body && document.body.getAttribute('data-prerender')) || ''; }
 
-  var VIEWS = { home: 'home', subject: 'subject', painting: 'painting', compare: 'compare', search: 'results', about: 'about' };
+  var VIEWS = { home: 'home', subject: 'subject', painting: 'painting', compare: 'compare', search: 'results', about: 'about', lectures: 'lectures', lecture: 'lecture' };
 
   function render() {
     if (location.hash && location.hash.indexOf('#/') !== 0) {

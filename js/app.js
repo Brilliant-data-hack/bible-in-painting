@@ -16,6 +16,8 @@
   App.views.painting = App.views.painting || stub('Картина');
   App.views.compare = App.views.compare || stub('Сравнение');
   App.views.about = App.views.about || stub('О проекте');
+  App.views.lectures = App.views.lectures || stub('Лекции');
+  App.views.lecture = App.views.lecture || stub('Лекция');
   App.views.notFound = App.views.notFound || { render: function () {
     return { title: 'Страница не найдена', html: '<div class="page page--narrow"><h1 class="page__title">Страница не найдена</h1>' +
       '<p>Такой страницы нет. Попробуйте найти сюжет или картину:</p>' + App.ui.searchBox({}) +
@@ -28,6 +30,7 @@
       '<a class="brand" href="#/"><span class="brand__mark" aria-hidden="true"></span>Библия в живописи</a>' +
       '<nav class="site-nav" aria-label="Основное меню">' +
       '<button class="icon-btn site-nav__search" type="button" aria-expanded="false" aria-controls="header-search" data-header-search aria-label="Открыть поиск">' + App.ui.ICON.search + '</button>' +
+      (App.lectures && App.lectures.list().length ? '<a class="site-nav__link site-nav__link--lectures" href="#/lectures">Лекции</a>' : '') +
       '<a class="site-nav__link" href="#/about">О проекте</a></nav></div>' +
       '<div class="header-search" id="header-search" hidden>' + App.ui.searchBox({}) + '</div>' +
       (App.store.data.meta.draft ? '<p class="draft-banner">Черновая сборка: данные ещё не проверены</p>' : '');
