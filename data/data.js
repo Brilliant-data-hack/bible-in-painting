@@ -5,7 +5,7 @@ window.DATA = {
   "public_base_url": "https://brilliant-data-hack.github.io/bible-in-painting/",
   "counts": {
    "subjects": 30,
-   "paintings": 123
+   "paintings": 159
   }
  },
  "epochs": {
@@ -847,6 +847,266 @@ window.DATA = {
    "born": 1757,
    "died": 1827,
    "wikidata": "Q41513"
+  },
+  "viktor-vasnetsov": {
+   "name": "Виктор Васнецов",
+   "name_orig": {
+    "text": "Виктор Михайлович Васнецов",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Viktor Vasnetsov"
+   ],
+   "born": 1848,
+   "died": 1926,
+   "wikidata": "Q204138"
+  },
+  "pyotr-basin": {
+   "name": "Пётр Басин",
+   "name_orig": {
+    "text": "Пётр Васильевич Басин",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Pyotr Basin"
+   ],
+   "born": 1793,
+   "died": 1877,
+   "wikidata": "Q4078998"
+  },
+  "fyodor-zavyalov": {
+   "name": "Фёдор Завьялов",
+   "name_orig": {
+    "text": "Фёдор Семёнович Завьялов",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Fyodor Zavyalov"
+   ],
+   "born": 1810,
+   "died": 1856,
+   "wikidata": "Q4183346"
+  },
+  "oleksandr-murashko": {
+   "name": "Александр Мурашко",
+   "name_orig": {
+    "text": "Олександр Олександрович Мурашко",
+    "lang": "uk"
+   },
+   "aliases": [
+    "Oleksandr Murashko",
+    "Alexander Murashko"
+   ],
+   "born": 1875,
+   "died": 1919,
+   "wikidata": "Q4307907"
+  },
+  "mariotto-albertinelli": {
+   "name": "Мариотто Альбертинелли",
+   "name_orig": {
+    "text": "Mariotto Albertinelli",
+    "lang": "it"
+   },
+   "born": 1474,
+   "died": 1515,
+   "wikidata": "Q436823"
+  },
+  "charles-de-la-fosse": {
+   "name": "Шарль де Лафосс",
+   "name_orig": {
+    "text": "Charles de La Fosse",
+    "lang": "fr"
+   },
+   "born": 1636,
+   "died": 1716,
+   "wikidata": "Q1066580"
+  },
+  "el-greco": {
+   "name": "Эль Греко",
+   "name_orig": {
+    "text": "Doménikos Theotokópoulos",
+    "lang": "es"
+   },
+   "aliases": [
+    "El Greco"
+   ],
+   "born": 1541,
+   "died": 1614,
+   "wikidata": "Q301"
+  },
+  "hendrick-van-cleve": {
+   "name": "Хендрик ван Клеве III",
+   "name_orig": {
+    "text": "Hendrick van Cleve III",
+    "lang": "nl"
+   },
+   "born": 1525,
+   "died": 1590,
+   "wikidata": "Q3130260"
+  },
+  "annibale-carracci": {
+   "name": "Аннибале Карраччи",
+   "name_orig": {
+    "text": "Annibale Carracci",
+    "lang": "it"
+   },
+   "aliases": [
+    "Annibale Carracci",
+    "Карраччи"
+   ],
+   "born": 1560,
+   "died": 1609,
+   "wikidata": "Q7824"
+  },
+  "roman-volkov": {
+   "name": "Роман Волков",
+   "name_orig": {
+    "text": "Роман Максимович Волков",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Roman Volkov",
+    "Р. М. Волков"
+   ],
+   "born": 1776,
+   "died": 1831,
+   "wikidata": "Q52154443"
+  },
+  "ilya-repin": {
+   "name": "Илья Репин",
+   "name_orig": {
+    "text": "Илья Ефимович Репин",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Ilya Repin"
+   ],
+   "born": 1844,
+   "died": 1930,
+   "wikidata": "Q172911"
+  },
+  "juan-de-juanes": {
+   "name": "Хуан де Хуанес",
+   "name_orig": {
+    "text": "Juan de Juanes",
+    "lang": "es"
+   },
+   "aliases": [
+    "Juan de Juanes",
+    "Vicente Juan Masip"
+   ],
+   "born": 1505,
+   "died": 1579,
+   "wikidata": "Q11287651"
+  },
+  "bartolomeo-manfredi": {
+   "name": "Бартоломео Манфреди",
+   "name_orig": {
+    "text": "Bartolomeo Manfredi",
+    "lang": "it"
+   },
+   "aliases": [
+    "Bartolomeo Manfredi"
+   ],
+   "born": 1582,
+   "died": 1622,
+   "wikidata": "Q721166"
+  },
+  "alexey-egorov": {
+   "name": "Алексей Егоров",
+   "name_orig": {
+    "text": "Алексей Егорович Егоров",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Aleksey Yegorov",
+    "Alexey Egorov"
+   ],
+   "born": 1776,
+   "died": 1851,
+   "wikidata": "Q4173709"
+  },
+  "andrey-ivanov": {
+   "name": "Андрей Иванов",
+   "name_orig": {
+    "text": "Андрей Иванович Иванов",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Andrey Ivanov",
+    "А. И. Иванов"
+   ],
+   "born": 1775,
+   "died": 1848,
+   "wikidata": "Q4195979"
+  },
+  "vasily-perov": {
+   "name": "Василий Перов",
+   "name_orig": {
+    "text": "Василий Григорьевич Перов",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Vasily Perov"
+   ],
+   "born": 1834,
+   "died": 1882,
+   "wikidata": "Q315237"
+  },
+  "fyodor-bruni": {
+   "name": "Фёдор Бруни",
+   "name_orig": {
+    "text": "Фёдор Антонович Бруни",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Fyodor Bruni",
+    "Fidelio Bruni"
+   ],
+   "born": 1799,
+   "died": 1875,
+   "wikidata": "Q983223"
+  },
+  "vasily-shebuev": {
+   "name": "Василий Шебуев",
+   "name_orig": {
+    "text": "Василий Козьмич Шебуев",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Vasily Shebuyev",
+    "Василий Кузьмич Шебуев"
+   ],
+   "born": 1777,
+   "died": 1855,
+   "wikidata": "Q4521884"
+  },
+  "grigory-lapchenko": {
+   "name": "Григорий Лапченко",
+   "name_orig": {
+    "text": "Григорий Игнатьевич Лапченко",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Grigoriy Lapchenko",
+    "Hryhorii Lapchenko"
+   ],
+   "born": 1801,
+   "died": 1876,
+   "wikidata": "Q12117118"
+  },
+  "vasily-p-vereshchagin": {
+   "name": "Василий Петрович Верещагин",
+   "name_orig": {
+    "text": "Василий Петрович Верещагин",
+    "lang": "ru"
+   },
+   "aliases": [
+    "Vasily Petrovich Vereshchagin"
+   ],
+   "born": 1835,
+   "died": 1909,
+   "wikidata": "Q4107761"
   }
  },
  "museums": {
@@ -1679,6 +1939,150 @@ window.DATA = {
    "country": "Франция",
    "url": "http://www.musee-unterlinden.com",
    "wikidata": "Q1851283"
+  },
+  "st-volodymyr-cathedral": {
+   "name": "Владимирский собор",
+   "name_orig": {
+    "text": "Володимирський собор",
+    "lang": "uk"
+   },
+   "city_id": "kyiv",
+   "city": "Киев",
+   "city_orig": {
+    "text": "Київ",
+    "lang": "uk"
+   },
+   "country": "Украина",
+   "url": "https://www.katedral.org.ua/",
+   "wikidata": "Q1417441"
+  },
+  "academy-of-arts-museum": {
+   "name": "Музей Российской академии художеств",
+   "name_orig": {
+    "text": "Научно-исследовательский музей Российской академии художеств",
+    "lang": "ru"
+   },
+   "city_id": "saint-petersburg",
+   "city": "Санкт-Петербург",
+   "city_orig": {
+    "text": "Санкт-Петербург",
+    "lang": "ru"
+   },
+   "country": "Россия",
+   "url": "http://artsacademymuseum.org/",
+   "wikidata": "Q4314524"
+  },
+  "national-art-museum-ukraine": {
+   "name": "Национальный художественный музей Украины",
+   "name_orig": {
+    "text": "Національний художній музей України",
+    "lang": "uk"
+   },
+   "city_id": "kyiv",
+   "city": "Киев",
+   "city_orig": {
+    "text": "Київ",
+    "lang": "uk"
+   },
+   "country": "Украина",
+   "url": "http://www.namu.ua/",
+   "wikidata": "Q1189277"
+  },
+  "kroller-muller": {
+   "name": "Музей Крёллер-Мюллер",
+   "name_orig": {
+    "text": "Kröller-Müller Museum",
+    "lang": "nl"
+   },
+   "city_id": "otterlo",
+   "city": "Оттерло",
+   "city_orig": {
+    "text": "Otterlo",
+    "lang": "nl"
+   },
+   "country": "Нидерланды",
+   "url": "http://krollermuller.nl",
+   "wikidata": "Q1051928"
+  },
+  "national-museum-western-art": {
+   "name": "Национальный музей западного искусства",
+   "name_orig": {
+    "text": "国立西洋美術館",
+    "lang": "ja"
+   },
+   "city_id": "tokyo",
+   "city": "Токио",
+   "city_orig": {
+    "text": "東京",
+    "lang": "ja"
+   },
+   "country": "Япония",
+   "url": "https://www.nmwa.go.jp/",
+   "wikidata": "Q1362629"
+  },
+  "museum-don-cossacks": {
+   "name": "Музей истории донского казачества",
+   "name_orig": {
+    "text": "Новочеркасский музей истории Донского казачества",
+    "lang": "ru"
+   },
+   "city_id": "novocherkassk",
+   "city": "Новочеркасск",
+   "city_orig": {
+    "text": "Новочеркасск",
+    "lang": "ru"
+   },
+   "country": "Россия",
+   "url": "http://www.novochmuseum.ru",
+   "wikidata": "Q16681587"
+  },
+  "samara-art-museum": {
+   "name": "Самарский художественный музей",
+   "name_orig": {
+    "text": "Самарский областной художественный музей",
+    "lang": "ru"
+   },
+   "city_id": "samara",
+   "city": "Самара",
+   "city_orig": {
+    "text": "Самара",
+    "lang": "ru"
+   },
+   "country": "Россия",
+   "url": "http://www.artmus.ru",
+   "wikidata": "Q3329599"
+  },
+  "novgorod-museum": {
+   "name": "Новгородский музей-заповедник",
+   "name_orig": {
+    "text": "Новгородский государственный объединённый музей-заповедник",
+    "lang": "ru"
+   },
+   "city_id": "veliky-novgorod",
+   "city": "Великий Новгород",
+   "city_orig": {
+    "text": "Великий Новгород",
+    "lang": "ru"
+   },
+   "country": "Россия",
+   "url": "http://novgorodmuseum.ru/",
+   "wikidata": "Q4322515"
+  },
+  "omsk-museum": {
+   "name": "Омский музей изобразительных искусств им. М. А. Врубеля",
+   "name_orig": {
+    "text": "Омский областной музей изобразительных искусств имени М. А. Врубеля",
+    "lang": "ru"
+   },
+   "city_id": "omsk",
+   "city": "Омск",
+   "city_orig": {
+    "text": "Омск",
+    "lang": "ru"
+   },
+   "country": "Россия",
+   "url": "https://vrubel.ru/",
+   "wikidata": "Q19844167"
   }
  },
  "characters": {
@@ -2606,7 +3010,8 @@ window.DATA = {
     "adoration-magi-gentile-da-fabriano-uffizi",
     "adoration-magi-sandro-botticelli-uffizi",
     "adoration-magi-pieter-brueghel-the-elder-national-gallery-london",
-    "adoration-magi-diego-velazquez-prado"
+    "adoration-magi-diego-velazquez-prado",
+    "adoration-magi-albrecht-durer-uffizi"
    ],
    "check": {
     "status": "checked",
@@ -2684,7 +3089,8 @@ window.DATA = {
     "adulteress-lorenzo-lotto-louvre",
     "adulteress-pieter-brueghel-the-elder-courtauld",
     "adulteress-rembrandt-national-gallery-london",
-    "adulteress-vasily-polenov-russian-museum"
+    "adulteress-vasily-polenov-russian-museum",
+    "adulteress-nicolas-poussin-louvre"
    ],
    "check": {
     "status": "checked",
@@ -2779,7 +3185,8 @@ window.DATA = {
     "annunciation-simone-martini-uffizi",
     "annunciation-fra-angelico-prado",
     "annunciation-jan-van-eyck-national-gallery-of-art",
-    "annunciation-leonardo-da-vinci-uffizi"
+    "annunciation-leonardo-da-vinci-uffizi",
+    "annunciation-oleksandr-murashko-national-art-museum-ukraine"
    ],
    "check": {
     "status": "checked",
@@ -2866,7 +3273,9 @@ window.DATA = {
     "arrest-giotto-scrovegni-chapel",
     "arrest-duccio-di-buoninsegna-opera-duomo-siena",
     "arrest-caravaggio-national-gallery-ireland",
-    "arrest-anthony-van-dyck-prado"
+    "arrest-anthony-van-dyck-prado",
+    "arrest-bartolomeo-manfredi-national-museum-western-art",
+    "arrest-nikolai-ge-tretyakov"
    ],
    "check": {
     "status": "checked",
@@ -3029,7 +3438,9 @@ window.DATA = {
     "baptism-piero-della-francesca-national-gallery-london",
     "baptism-andrea-del-verrocchio-uffizi",
     "baptism-gerard-david-groeningemuseum",
-    "baptism-alexander-ivanov-tretyakov"
+    "baptism-alexander-ivanov-tretyakov",
+    "baptism-roman-volkov-russian-museum",
+    "baptism-andrey-ivanov-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -3107,7 +3518,8 @@ window.DATA = {
     "cain-abel-titian-santa-maria-della-salute",
     "cain-abel-jacopo-tintoretto-accademia-venice",
     "cain-abel-peter-paul-rubens-courtauld",
-    "cain-abel-fernand-cormon-orsay"
+    "cain-abel-fernand-cormon-orsay",
+    "cain-abel-william-blake-tate-britain"
    ],
    "check": {
     "status": "checked",
@@ -3189,7 +3601,9 @@ window.DATA = {
    "paintings": [
     "creation-michelangelo-sistine-chapel",
     "creation-william-blake-tate-britain",
-    "creation-ivan-aivazovsky-san-lazzaro-degli-armeni"
+    "creation-ivan-aivazovsky-san-lazzaro-degli-armeni",
+    "creation-jacopo-tintoretto-accademia-venice",
+    "creation-mariotto-albertinelli-courtauld"
    ],
    "check": {
     "status": "checked",
@@ -3291,7 +3705,8 @@ window.DATA = {
     "crucifixion-masaccio-capodimonte",
     "crucifixion-matthias-grunewald-unterlinden",
     "crucifixion-diego-velazquez-prado",
-    "crucifixion-nikolai-ge-tretyakov"
+    "crucifixion-nikolai-ge-tretyakov",
+    "crucifixion-nikolai-ge-museum-don-cossacks"
    ],
    "check": {
     "status": "checked",
@@ -3366,7 +3781,8 @@ window.DATA = {
     "david-goliath-titian-santa-maria-della-salute",
     "david-goliath-caravaggio-prado",
     "david-goliath-guido-reni-louvre",
-    "david-goliath-caravaggio-borghese"
+    "david-goliath-caravaggio-borghese",
+    "david-goliath-orazio-gentileschi-national-gallery-ireland"
    ],
    "check": {
     "status": "checked",
@@ -3462,7 +3878,9 @@ window.DATA = {
     "deposition-rogier-van-der-weyden-prado",
     "deposition-pontormo-santa-felicita",
     "deposition-peter-paul-rubens-antwerp-cathedral",
-    "deposition-rembrandt-hermitage"
+    "deposition-rembrandt-hermitage",
+    "deposition-viktor-vasnetsov-omsk-museum",
+    "deposition-vasily-perov-tretyakov"
    ],
    "check": {
     "status": "checked",
@@ -3548,7 +3966,9 @@ window.DATA = {
     "ecce-homo-hieronymus-bosch-staedel",
     "ecce-homo-titian-kunsthistorisches-museum",
     "ecce-homo-antonio-ciseri-gam-florence",
-    "ecce-homo-nikolai-ge-tretyakov"
+    "ecce-homo-nikolai-ge-tretyakov",
+    "ecce-homo-ivan-kramskoi-russian-museum",
+    "ecce-homo-alexey-egorov-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -3729,7 +4149,9 @@ window.DATA = {
     "entombment-giotto-scrovegni-chapel",
     "entombment-andrea-mantegna-brera",
     "entombment-titian-louvre",
-    "entombment-caravaggio-pinacoteca-vaticana"
+    "entombment-caravaggio-pinacoteca-vaticana",
+    "entombment-karl-bryullov-russian-museum",
+    "entombment-vladimir-borovikovsky-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -3811,7 +4233,8 @@ window.DATA = {
     "fall-hugo-van-der-goes-kunsthistorisches-museum",
     "fall-albrecht-durer-prado",
     "fall-titian-prado",
-    "fall-peter-paul-rubens-mauritshuis"
+    "fall-peter-paul-rubens-mauritshuis",
+    "fall-viktor-vasnetsov-st-volodymyr-cathedral"
    ],
    "check": {
     "status": "checked",
@@ -3889,7 +4312,8 @@ window.DATA = {
     "finding-moses-paolo-veronese-prado",
     "finding-moses-orazio-gentileschi-national-gallery-london",
     "finding-moses-nicolas-poussin-louvre",
-    "finding-moses-giovanni-battista-tiepolo-scottish-national-gallery"
+    "finding-moses-giovanni-battista-tiepolo-scottish-national-gallery",
+    "finding-moses-charles-de-la-fosse-louvre"
    ],
    "check": {
     "status": "checked",
@@ -3974,7 +4398,9 @@ window.DATA = {
     "flight-egypt-giotto-scrovegni-chapel",
     "flight-egypt-joachim-patinir-prado",
     "flight-egypt-caravaggio-doria-pamphilj",
-    "flight-egypt-adam-elsheimer-alte-pinakothek"
+    "flight-egypt-adam-elsheimer-alte-pinakothek",
+    "flight-egypt-annibale-carracci-doria-pamphilj",
+    "flight-egypt-fyodor-bruni-tretyakov"
    ],
    "check": {
     "status": "checked",
@@ -4054,7 +4480,8 @@ window.DATA = {
     "flood-jacopo-bassano-prado",
     "flood-jan-brueghel-the-elder-getty",
     "flood-edward-hicks-philadelphia-museum-of-art",
-    "flood-ivan-aivazovsky-russian-museum"
+    "flood-ivan-aivazovsky-russian-museum",
+    "flood-vasily-p-vereshchagin-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -4129,7 +4556,8 @@ window.DATA = {
     "joseph-potiphar-jacopo-tintoretto-prado",
     "joseph-potiphar-orazio-gentileschi-royal-collection",
     "joseph-potiphar-guercino-national-gallery-of-art",
-    "joseph-potiphar-rembrandt-gemaeldegalerie-berlin"
+    "joseph-potiphar-rembrandt-gemaeldegalerie-berlin",
+    "joseph-potiphar-guido-reni-getty"
    ],
    "check": {
     "status": "checked",
@@ -4306,7 +4734,9 @@ window.DATA = {
     "last-supper-dieric-bouts-st-peters-leuven",
     "last-supper-leonardo-da-vinci-santa-maria-delle-grazie",
     "last-supper-jacopo-tintoretto-san-giorgio-maggiore",
-    "last-supper-nikolai-ge-russian-museum"
+    "last-supper-nikolai-ge-russian-museum",
+    "last-supper-juan-de-juanes-prado",
+    "last-supper-ilya-repin-novgorod-museum"
    ],
    "check": {
     "status": "checked",
@@ -4387,7 +4817,8 @@ window.DATA = {
     "lazarus-giotto-scrovegni-chapel",
     "lazarus-sebastiano-del-piombo-national-gallery-london",
     "lazarus-caravaggio-museo-regionale-messina",
-    "lazarus-rembrandt-lacma"
+    "lazarus-rembrandt-lacma",
+    "lazarus-guercino-louvre"
    ],
    "check": {
     "status": "checked",
@@ -4468,7 +4899,8 @@ window.DATA = {
     "martha-mary-jacopo-tintoretto-alte-pinakothek",
     "martha-mary-diego-velazquez-national-gallery-london",
     "martha-mary-johannes-vermeer-scottish-national-gallery",
-    "martha-mary-henryk-siemiradzki-russian-museum"
+    "martha-mary-henryk-siemiradzki-russian-museum",
+    "martha-mary-vasily-polenov-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -4562,7 +4994,8 @@ window.DATA = {
     "nativity-giotto-scrovegni-chapel",
     "nativity-hugo-van-der-goes-uffizi",
     "nativity-antonio-da-correggio-gemaeldegalerie-dresden",
-    "nativity-georges-de-la-tour-louvre"
+    "nativity-georges-de-la-tour-louvre",
+    "nativity-el-greco-prado"
    ],
    "check": {
     "status": "checked",
@@ -4649,7 +5082,9 @@ window.DATA = {
     "noli-me-tangere-fra-angelico-san-marco-florence",
     "noli-me-tangere-titian-national-gallery-london",
     "noli-me-tangere-antonio-da-correggio-prado",
-    "noli-me-tangere-alexander-ivanov-russian-museum"
+    "noli-me-tangere-alexander-ivanov-russian-museum",
+    "noli-me-tangere-rembrandt-royal-collection",
+    "noli-me-tangere-vasily-polenov-samara-art-museum"
    ],
    "check": {
     "status": "checked",
@@ -4735,7 +5170,8 @@ window.DATA = {
     "prodigal-son-rembrandt-gemaeldegalerie-dresden",
     "prodigal-son-rembrandt-hermitage",
     "prodigal-son-bartolome-esteban-murillo-national-gallery-of-art",
-    "prodigal-son-pompeo-batoni-kunsthistorisches-museum"
+    "prodigal-son-pompeo-batoni-kunsthistorisches-museum",
+    "prodigal-son-vasily-polenov-tretyakov"
    ],
    "check": {
     "status": "checked",
@@ -4897,7 +5333,8 @@ window.DATA = {
     "samson-delilah-andrea-mantegna-national-gallery-london",
     "samson-delilah-peter-paul-rubens-national-gallery-london",
     "samson-delilah-anthony-van-dyck-kunsthistorisches-museum",
-    "samson-delilah-rembrandt-staedel"
+    "samson-delilah-rembrandt-staedel",
+    "samson-delilah-fyodor-zavyalov-academy-of-arts-museum"
    ],
    "check": {
     "status": "checked",
@@ -4978,7 +5415,9 @@ window.DATA = {
     "susanna-jacopo-tintoretto-kunsthistorisches-museum",
     "susanna-artemisia-gentileschi-schloss-weissenstein",
     "susanna-guercino-prado",
-    "susanna-rembrandt-mauritshuis"
+    "susanna-rembrandt-mauritshuis",
+    "susanna-pyotr-basin-russian-museum",
+    "susanna-grigory-lapchenko-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -5064,7 +5503,8 @@ window.DATA = {
     "temptation-duccio-di-buoninsegna-frick",
     "temptation-sandro-botticelli-sistine-chapel",
     "temptation-jacopo-tintoretto-scuola-san-rocco",
-    "temptation-ivan-kramskoi-tretyakov"
+    "temptation-ivan-kramskoi-tretyakov",
+    "temptation-ilya-repin-russian-museum"
    ],
    "check": {
     "status": "checked",
@@ -5277,6 +5717,64 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "adoration-magi-albrecht-durer-uffizi": {
+   "subject": "adoration-magi",
+   "title": "Поклонение волхвов",
+   "title_orig": {
+    "text": "Anbetung der Könige",
+    "lang": "de"
+   },
+   "artist": "albrecht-durer",
+   "year": 1504,
+   "date_label": "1504",
+   "epoch": "northern-renaissance",
+   "museum": "uffizi",
+   "inventory": "00286563",
+   "details": [
+    {
+     "text": "Мария в синем сидит у дощатого навеса хлева, из-за которого выглядывает вол; старший волхв на коленях склонился к Младенцу."
+    },
+    {
+     "text": "Средний волхв в золотом облачении держит кубок, молодой темнокожий волхв — сосуд с крышкой; справа спешивается свита."
+    },
+    {
+     "text": "Фон — руины арок и крепость на горе; внизу справа на ступенях сидит жук-олень."
+    }
+   ],
+   "image": {
+    "commons_file": "Albrecht Dürer - Adorazione dei Magi - Google Art Project.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+    "width": 3848,
+    "height": 3360,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/330px-Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/960px-Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Google Arts & Culture — zwFGJLYuIszRRw",
+    "alt": "Поклонение волхвов, Альбрехт Дюрер, 1504"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum, inventory",
+     "url": "https://www.uffizi.it/opere/adorazione-dei-magi-durer"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q2628761"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "adulteress-lorenzo-lotto-louvre": {
    "subject": "adulteress",
    "title": "Христос и грешница",
@@ -5479,6 +5977,58 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "adulteress-nicolas-poussin-louvre": {
+   "subject": "adulteress",
+   "title": "Христос и грешница",
+   "title_orig": {
+    "text": "Le Christ et la femme adultère",
+    "lang": "fr"
+   },
+   "artist": "nicolas-poussin",
+   "year": 1653,
+   "date_label": "1653",
+   "epoch": "classicism",
+   "museum": "louvre",
+   "inventory": "INV 7282",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Фризовая композиция на фоне античного города: Христос в синем хитоне и красном плаще стоит в центре и указывает на надпись на плитах мостовой."
+    },
+    {
+     "text": "Слева от него на коленях — женщина в голубом, справа фарисеи склоняются над написанным на земле, а крайние фигуры с жестами смятения уходят прочь (Ин 8:8–9)."
+    }
+   ],
+   "image": {
+    "commons_file": "Le Christ et la femme adultère - Nicolas Poussin - Louvre - INV 7282.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg",
+    "width": 3905,
+    "height": 2410,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg/330px-Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg/960px-Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg/1920px-Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "photo Shonagon 2022-11-17",
+    "alt": "Христос и грешница, Никола Пуссен, 1653"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q9191521"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Le_Christ_et_la_femme_adult%C3%A8re_-_Nicolas_Poussin_-_Louvre_-_INV_7282.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "annunciation-simone-martini-uffizi": {
@@ -5689,6 +6239,63 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "annunciation-oleksandr-murashko-national-art-museum-ukraine": {
+   "subject": "annunciation",
+   "title": "Благовещение",
+   "title_orig": {
+    "text": "Благовіщення",
+    "lang": "uk"
+   },
+   "artist": "oleksandr-murashko",
+   "year": 1907,
+   "date_label": "1907–1908",
+   "epoch": "art-19-20c",
+   "museum": "national-art-museum-ukraine",
+   "details": [
+    {
+     "text": "Сцена перенесена на залитую солнцем веранду: Мария в простом белом платье, с косами, сидит у пялец с вышивкой и, обернувшись, подносит руку к лицу."
+    },
+    {
+     "text": "Архангел входит из-за развевающейся занавеси с лилией в руке, без крыльев и нимба — он похож на обычного человека."
+    },
+    {
+     "text": "На переднем плане — цветы в горшке и на скамеечке, на полу — коврик и рукоделие."
+    }
+   ],
+   "image": {
+    "commons_file": "Oleksandr Murashko - Annunciation - 1907-08.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg",
+    "width": 2264,
+    "height": 2787,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg/330px-Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg/960px-Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg/1920px-Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "https://artsandculture.google.com/asset/annunciation-oleksandr-murashko/fwG9-wkXciSvBA",
+    "alt": "Благовещение, Александр Мурашко, 1907–1908"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum",
+     "url": "https://artsandculture.google.com/asset/annunciation-oleksandr-murashko/fwG9-wkXciSvBA"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q111042861"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Oleksandr_Murashko_-_Annunciation_-_1907-08.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "arrest-giotto-scrovegni-chapel": {
    "subject": "arrest",
    "title": "Поцелуй Иуды",
@@ -5893,6 +6500,118 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "arrest-bartolomeo-manfredi-national-museum-western-art": {
+   "subject": "arrest",
+   "title": "Взятие Христа под стражу",
+   "title_orig": {
+    "text": "Cattura di Cristo",
+    "lang": "it"
+   },
+   "artist": "bartolomeo-manfredi",
+   "year": 1615,
+   "date_label": "ок. 1613–1615",
+   "epoch": "baroque",
+   "museum": "national-museum-western-art",
+   "inventory": "P.2015-0001",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Полуфигуры на тёмном фоне, свет в духе Караваджо: Иуда в охристом плаще обнимает Христа, Христос в красном оборачивается к нему."
+    },
+    {
+     "text": "Слева воин в шлеме и узорном рукаве кладёт руку Христу на плечо, справа и сзади — ещё стражники в блестящих латах."
+    }
+   ],
+   "image": {
+    "commons_file": "Bartolomeo Manfredi - Capture of Christ.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Capture_of_Christ.jpg",
+    "width": 1400,
+    "height": 939,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bartolomeo_Manfredi_-_Capture_of_Christ.jpg/330px-Bartolomeo_Manfredi_-_Capture_of_Christ.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bartolomeo_Manfredi_-_Capture_of_Christ.jpg/960px-Bartolomeo_Manfredi_-_Capture_of_Christ.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bartolomeo_Manfredi_-_Capture_of_Christ.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "https://nordonart.wordpress.com/2015/10/30/tokyo-museum-acquires-important-manfredi-painting-from-robilant-voena/",
+    "alt": "Взятие Христа под стражу, Бартоломео Манфреди, ок. 1613–1615"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q28084962"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Capture_of_Christ.jpg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://cultural.jp/item/syozo-194050"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "arrest-nikolai-ge-tretyakov": {
+   "subject": "arrest",
+   "title": "Совесть. Иуда",
+   "title_orig": {
+    "text": "Совесть. Иуда",
+    "lang": "ru"
+   },
+   "artist": "nikolai-ge",
+   "year": 1891,
+   "date_label": "1891",
+   "epoch": "russian",
+   "museum": "tretyakov",
+   "inventory": "Инв. 2640",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Лунная ночь, пустая дорога: Иуда, закутанный в светлый плащ с головой, стоит один и смотрит вслед уходящим."
+    },
+    {
+     "text": "Далеко справа, на краю света, — едва различимая группа стражников, которые уводят Христа."
+    }
+   ],
+   "image": {
+    "commons_file": "Nikolaj Nikolajewitsch Ge 002.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Nikolaj_Nikolajewitsch_Ge_002.jpg",
+    "width": 1146,
+    "height": 800,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nikolaj_Nikolajewitsch_Ge_002.jpg/330px-Nikolaj_Nikolajewitsch_Ge_002.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Nikolaj_Nikolajewitsch_Ge_002.jpg/960px-Nikolaj_Nikolajewitsch_Ge_002.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nikolaj_Nikolajewitsch_Ge_002.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+    "alt": "Совесть. Иуда, Николай Ге, 1891"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://azbyka.ru/art/?p=463"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Nikolaj_Nikolajewitsch_Ge_002.jpg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://my.tretyakov.ru/app/masterpiece/22090"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "babel-pieter-brueghel-the-elder-kunsthistorisches-museum": {
@@ -6317,6 +7036,110 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "baptism-roman-volkov-russian-museum": {
+   "subject": "baptism",
+   "title": "Крещение Господне",
+   "title_orig": {
+    "text": "Крещение Господне",
+    "lang": "ru"
+   },
+   "artist": "roman-volkov",
+   "year": 1808,
+   "date_label": "1808",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-3332",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Две крупные фигуры у воды: Христос в белой набедренной повязке стоит, опустив глаза, Иоанн Креститель, наклонившись, льёт воду ему на голову из чаши."
+    },
+    {
+     "text": "Иоанн в шкуре, с тростниковым крестом в руке; сверху в левом углу пробивается световой луч."
+    }
+   ],
+   "image": {
+    "commons_file": "Р. М. Волков. Крещение Господне.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg",
+    "width": 960,
+    "height": 1460,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg/330px-%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg",
+     "960": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.zdravrussia.ru/galereja/xixvekpervajapolovina/?info=4788",
+    "alt": "Крещение Господне, Роман Волков, 1808"
+   },
+   "attribution_sources": [
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%A0._%D0%9C._%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2._%D0%9A%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5.jpg"
+    },
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/17_19/zh-3332/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "baptism-andrey-ivanov-russian-museum": {
+   "subject": "baptism",
+   "title": "Крещение Спасителя",
+   "title_orig": {
+    "text": "Крещение Спасителя",
+    "lang": "ru"
+   },
+   "artist": "andrey-ivanov",
+   "year": 1810,
+   "date_label": "1810–1811",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-5471",
+   "technique": "картон прессованный, масло",
+   "details": [
+    {
+     "text": "Полукруглая композиция: Христос стоит на коленях в воде, сложив руки на груди, над ним стоит Иоанн с крестом-посохом; в небе — голубь Святого Духа."
+    },
+    {
+     "text": "По сторонам — народ: слева группа в красных и жёлтых одеждах и раздевающийся юноша на берегу, справа — лодка, полная людей."
+    }
+   ],
+   "image": {
+    "commons_file": "Andrey Ivanov 007.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Andrey_Ivanov_007.jpg",
+    "width": 1024,
+    "height": 476,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Andrey_Ivanov_007.jpg/330px-Andrey_Ivanov_007.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Andrey_Ivanov_007.jpg/960px-Andrey_Ivanov_007.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Andrey_Ivanov_007.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.artsait.ru/art/i/ivanovAI/art1.php",
+    "alt": "Крещение Спасителя, Андрей Иванов, 1810–1811"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/17_19/zh-5471/index.php"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Andrey_Ivanov_007.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "cain-abel-titian-santa-maria-della-salute": {
    "subject": "cain-abel",
    "title": "Каин и Авель",
@@ -6520,6 +7343,64 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "cain-abel-william-blake-tate-britain": {
+   "subject": "cain-abel",
+   "title": "Адам и Ева находят тело Авеля",
+   "title_orig": {
+    "text": "The Body of Abel Found by Adam and Eve",
+    "lang": "en"
+   },
+   "artist": "william-blake",
+   "year": 1826,
+   "date_label": "ок. 1826",
+   "epoch": "romanticism",
+   "museum": "tate-britain",
+   "inventory": "N05888",
+   "details": [
+    {
+     "text": "Ева припала к телу Авеля, лежащему у края вырытой могилы; Адам за ней в ужасе раскинул руки."
+    },
+    {
+     "text": "Слева убегает Каин, схватившись за голову; на переднем плане — пустая могила и брошенная лопата."
+    },
+    {
+     "text": "Небо за Каином охвачено огненными языками вокруг багрового солнца, справа поднимается тёмная гора."
+    }
+   ],
+   "image": {
+    "commons_file": "Blake-Abel.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Blake-Abel.jpg",
+    "width": 2100,
+    "height": 1630,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Blake-Abel.jpg/330px-Blake-Abel.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Blake-Abel.jpg/960px-Blake-Abel.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Blake-Abel.jpg/1920px-Blake-Abel.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://freechristimages.org",
+    "alt": "Адам и Ева находят тело Авеля, Уильям Блейк, ок. 1826"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.tate.org.uk/art/artworks/blake-the-body-of-abel-found-by-adam-and-eve-n05888"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q3605056"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Blake-Abel.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "creation-michelangelo-sistine-chapel": {
    "subject": "creation",
    "title": "Сотворение Адама",
@@ -6674,6 +7555,122 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "creation-jacopo-tintoretto-accademia-venice": {
+   "subject": "creation",
+   "title": "Сотворение животных",
+   "title_orig": {
+    "text": "Creazione degli animali",
+    "lang": "it"
+   },
+   "artist": "jacopo-tintoretto",
+   "year": 1550,
+   "date_label": "1550–1553",
+   "epoch": "mannerism",
+   "museum": "accademia-venice",
+   "inventory": "900",
+   "details": [
+    {
+     "text": "Бог-Отец в красном плаще стремительно летит над землёй, вытянув руку: одним жестом он вызывает к жизни животных."
+    },
+    {
+     "text": "Слева над морем тянутся вереницы птиц, в воде плывут рыбы; справа из-за деревьев появляются звери — белый конь, олень, бык, у самой земли зайцы."
+    },
+    {
+     "text": "Многие животные написаны быстро и полупрозрачно, почти силуэтами, — мир ещё будто проступает на холсте."
+    }
+   ],
+   "image": {
+    "commons_file": "Jacopo Tintoretto — Creation of the Animals.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg",
+    "width": 4299,
+    "height": 2484,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg/330px-Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg/960px-Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg/1920px-Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Own work",
+    "alt": "Сотворение животных, Тинторетто, 1550–1553"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum, inventory",
+     "url": "https://www.gallerieaccademia.it/la-creazione-degli-animali"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q5963059"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_%E2%80%94_Creation_of_the_Animals.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "creation-mariotto-albertinelli-courtauld": {
+   "subject": "creation",
+   "title": "Сотворение и грехопадение",
+   "title_orig": {
+    "text": "Creation and Fall of Man",
+    "lang": "en"
+   },
+   "artist": "mariotto-albertinelli",
+   "year": 1514,
+   "date_label": "1513–1514",
+   "epoch": "high-renaissance",
+   "museum": "courtauld",
+   "inventory": "P.1966.GP.6",
+   "details": [
+    {
+     "text": "Длинная панель читается слева направо как рассказ: у скал — звери и ангелы, рядом Бог в красном плаще поднимает за руку лежащего Адама."
+    },
+    {
+     "text": "В центре Бог, теперь в синем, благословляющим жестом творит Еву: её, поддерживая, выводят ангелы из бока уснувшего Адама."
+    },
+    {
+     "text": "Справа под деревом Ева протягивает плод Адаму — цикл замыкается грехопадением."
+    }
+   ],
+   "image": {
+    "commons_file": "Mariotto Albertinelli (1474-1515) - Creation and Fall of Man - P.1966.GP.6 - Courtauld Gallery.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mariotto_Albertinelli_(1474-1515)_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg",
+    "width": 1200,
+    "height": 407,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg/330px-Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg/960px-Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Art UK",
+    "alt": "Сотворение и грехопадение, Мариотто Альбертинелли, 1513–1514"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum, inventory",
+     "url": "https://gallerycollections.courtauld.ac.uk/object-p-1966-gp-6"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q118680611"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Mariotto_Albertinelli_%281474-1515%29_-_Creation_and_Fall_of_Man_-_P.1966.GP.6_-_Courtauld_Gallery.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "crucifixion-masaccio-capodimonte": {
@@ -6876,6 +7873,58 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "crucifixion-nikolai-ge-museum-don-cossacks": {
+   "subject": "crucifixion",
+   "title": "Распятие",
+   "title_orig": {
+    "text": "Распятие",
+    "lang": "ru"
+   },
+   "artist": "nikolai-ge",
+   "year": 1884,
+   "date_label": "1884",
+   "epoch": "russian",
+   "museum": "museum-don-cossacks",
+   "inventory": "ж-782",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Христос один на кресте во весь рост, в терновом венце, голова опущена; над ним табличка «I.N.R.I.»."
+    },
+    {
+     "text": "Ноги прибиты к подножию двумя гвоздями; горизонт низкий, внизу — камни, позади — серое небо и полоса воды."
+    }
+   ],
+   "image": {
+    "commons_file": "Николай Ге. Распятие.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg",
+    "width": 2256,
+    "height": 4000,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg/330px-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg/960px-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg/1920px-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Own work",
+    "alt": "Распятие, Николай Ге, 1884"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q120973963"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%93%D0%B5._%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "david-goliath-titian-santa-maria-della-salute": {
@@ -7085,6 +8134,61 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "david-goliath-orazio-gentileschi-national-gallery-ireland": {
+   "subject": "david-goliath",
+   "title": "Давид и Голиаф",
+   "title_orig": {
+    "text": "Davide che uccide Golia",
+    "lang": "it"
+   },
+   "artist": "orazio-gentileschi",
+   "year": 1605,
+   "date_label": "ок. 1605–1607",
+   "epoch": "baroque",
+   "museum": "national-gallery-ireland",
+   "inventory": "NGI.980",
+   "details": [
+    {
+     "text": "Юный Давид встал коленом на грудь поверженного Голиафа и заносит над головой огромный меч великана (1 Цар 17:51)."
+    },
+    {
+     "text": "Голиаф в стальной кирасе лежит головой к зрителю, вскинув руку; на земле среди камней брошена праща."
+    }
+   ],
+   "image": {
+    "commons_file": "Orazio Gentileschi - Davide e Golia (National Gallery of Ireland).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Orazio_Gentileschi_-_Davide_e_Golia_(National_Gallery_of_Ireland).jpg",
+    "width": 2189,
+    "height": 3000,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg/330px-Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg/960px-Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg/1920px-Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "1. PaintingDb, Object 8086 2. National Gallery of Ireland, online collection",
+    "alt": "Давид и Голиаф, Орацио Джентилески, ок. 1605–1607"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum, inventory",
+     "url": "https://onlinecollection.nationalgallery.ie/objects/details/11798"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q29044255"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Orazio_Gentileschi_-_Davide_e_Golia_%28National_Gallery_of_Ireland%29.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "deposition-rogier-van-der-weyden-prado": {
    "subject": "deposition",
    "title": "Снятие с креста",
@@ -7288,6 +8392,119 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "deposition-viktor-vasnetsov-omsk-museum": {
+   "subject": "deposition",
+   "title": "Снятие с креста",
+   "title_orig": {
+    "text": "Снятие с креста",
+    "lang": "ru"
+   },
+   "artist": "viktor-vasnetsov",
+   "year": 1888,
+   "date_label": "1888–1901",
+   "epoch": "russian",
+   "museum": "omsk-museum",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Композиция вписана в пятиугольник со скруглённым низом, как участок стены храма; на вечернем небе с первыми звёздами — пустой крест с лестницей, свисающей пеленой и церковнославянской табличкой «Иисус Назарянин, Царь Иудейский»."
+    },
+    {
+     "text": "Седобородый старец в белом тюрбане и юноша в красном плаще держат тело Христа на белом полотне; Богоматерь в тёмном мафории склоняется к Его лицу, у ног на коленях плачет Мария Магдалина с распущенными волосами, слева стоит жена-мироносица со светильником."
+    },
+    {
+     "text": "Справа внизу на земле — чаша с губкой и сосуд для мира; за холмом видны белые здания Иерусалима."
+    }
+   ],
+   "image": {
+    "commons_file": "Снятие с креста.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg",
+    "width": 994,
+    "height": 1000,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg/330px-%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg/960px-%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.picture.art-catalog.ru/picture.php?id_picture=4529",
+    "alt": "Снятие с креста, Виктор Васнецов, 1888–1901"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, museum, year, technique",
+     "url": "https://goskatalog.ru/portal/#/collections?id=5264409"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_%D1%81_%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B0.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "deposition-vasily-perov-tretyakov": {
+   "subject": "deposition",
+   "title": "Снятие с креста",
+   "title_orig": {
+    "text": "Снятие с креста",
+    "lang": "ru"
+   },
+   "artist": "vasily-perov",
+   "year": 1878,
+   "date_label": "1878",
+   "epoch": "russian",
+   "museum": "tretyakov",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Тело Христа уже на земле, на белой пелене; у головы — Богоматерь, у ног, припав лицом, лежит Мария Магдалина, рядом стоит на коленях седой старец."
+    },
+    {
+     "text": "Позади — окровавленный крест с прислонённой лестницей и красное закатное небо; на переднем плане — терновый венец и чаша с водой и губкой."
+    }
+   ],
+   "image": {
+    "commons_file": "Descent from the Cross Perow.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Descent_from_the_Cross_Perow.jpg",
+    "width": 1799,
+    "height": 1181,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Descent_from_the_Cross_Perow.jpg/330px-Descent_from_the_Cross_Perow.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Descent_from_the_Cross_Perow.jpg/960px-Descent_from_the_Cross_Perow.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Descent_from_the_Cross_Perow.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.picture.art-catalog.ru/picture.php?id_picture=12514",
+    "alt": "Снятие с креста, Василий Перов, 1878"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, museum",
+     "url": "https://www.wikidata.org/wiki/Q140420343"
+    },
+    {
+     "field": "year, museum",
+     "url": "https://ru.wikipedia.org/wiki/Список_картин_Василия_Григорьевича_Перова"
+    },
+    {
+     "field": "museum",
+     "url": "http://www.art-catalog.ru/picture.php?id_picture=12514"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Descent_from_the_Cross_Perow.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "ecce-homo-hieronymus-bosch-staedel": {
@@ -7502,6 +8719,118 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "ecce-homo-ivan-kramskoi-russian-museum": {
+   "subject": "ecce-homo",
+   "title": "Хохот («Радуйся, Царю Иудейский»)",
+   "title_orig": {
+    "text": "Хохот (Радуйся, Царю Иудейский)",
+    "lang": "ru"
+   },
+   "artist": "ivan-kramskoi",
+   "year": 1880,
+   "date_label": "1876–1880-е",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-5724",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Христос в багрянице, с тростью в руке, стоит на возвышении в огороженном цепями дворе; вокруг него хохочут и кривляются воины."
+    },
+    {
+     "text": "Толпа заполняет ступени и галерею, слева наверху — красный навес; часть фигур только намечена — картина осталась незаконченной."
+    }
+   ],
+   "image": {
+    "commons_file": "Kramskoi Mocking Christ.jpeg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Kramskoi_Mocking_Christ.jpeg",
+    "width": 2000,
+    "height": 1464,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Kramskoi_Mocking_Christ.jpeg/330px-Kramskoi_Mocking_Christ.jpeg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Kramskoi_Mocking_Christ.jpeg/960px-Kramskoi_Mocking_Christ.jpeg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Kramskoi_Mocking_Christ.jpeg/1920px-Kramskoi_Mocking_Christ.jpeg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://artclassic.edu.ru/catalog.asp?cat_ob_no=13018&ob_no=24261",
+    "alt": "Хохот («Радуйся, Царю Иудейский»), Иван Крамской, 1876–1880-е"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q57531743"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Kramskoi_Mocking_Christ.jpeg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh-5724/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "ecce-homo-alexey-egorov-russian-museum": {
+   "subject": "ecce-homo",
+   "title": "Истязание Спасителя",
+   "title_orig": {
+    "text": "Истязание Спасителя",
+    "lang": "ru"
+   },
+   "artist": "alexey-egorov",
+   "year": 1814,
+   "date_label": "1814",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-3325",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Христос с нимбом стоит у столба со связанными за спиной руками и смотрит вверх."
+    },
+    {
+     "text": "Двое полуобнажённых палачей готовят бичевание: левый держит розги, правый туго затягивает верёвку; за ними — римский воин в шлеме с гребнем."
+    }
+   ],
+   "image": {
+    "commons_file": "Alexey Egorovich Egorov, The Flagellation of Christ, 1814, Russian Museum Ж-3325.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Alexey_Egorovich_Egorov,_The_Flagellation_of_Christ,_1814,_Russian_Museum_%D0%96-3325.jpg",
+    "width": 1120,
+    "height": 1429,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg/330px-Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg/960px-Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Истязание Спасителя - Виртуальный Русский музей",
+    "alt": "Истязание Спасителя, Алексей Егоров, 1814"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q124710407"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Alexey_Egorovich_Egorov%2C_The_Flagellation_of_Christ%2C_1814%2C_Russian_Museum_%D0%96-3325.jpg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/18_19/zh_3325/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "emmaus-titian-louvre": {
@@ -7963,6 +9292,118 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "entombment-karl-bryullov-russian-museum": {
+   "subject": "entombment",
+   "title": "Христос во гробе",
+   "title_orig": {
+    "text": "Христос во гробе",
+    "lang": "ru"
+   },
+   "artist": "karl-bryullov",
+   "year": 1846,
+   "date_label": "1845–1846",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-12199",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Христос лежит на ложе под белой пеленой, руки скрещены на груди, вокруг головы — сияние."
+    },
+    {
+     "text": "Справа в облаках — молящийся ангел в светлых одеждах, у ног Христа — терновый венец; картина имеет арочное завершение."
+    }
+   ],
+   "image": {
+    "commons_file": "Христос во гробе.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+    "width": 2953,
+    "height": 3759,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/330px-%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/960px-%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/1920px-%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Голдовский Г. Н. Картина Карла Брюллова Христос во гробе (новое приобретение Русского музея) // Русский музей представляет: Карл Брюллов. Христос во гробе : Альманах. — Palace Editions, 2016. — Т. 48…",
+    "alt": "Христос во гробе, Карл Брюллов, 1845–1846"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q131721641"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/17_19/zh-12199/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "entombment-vladimir-borovikovsky-russian-museum": {
+   "subject": "entombment",
+   "title": "Христос во гробе",
+   "title_orig": {
+    "text": "Христос во гробе",
+    "lang": "ru"
+   },
+   "artist": "vladimir-borovikovsky",
+   "year": 1820,
+   "date_label": "1810-е — первая половина 1820-х",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-3193",
+   "technique": "картон, масло",
+   "details": [
+    {
+     "text": "Тело Христа лежит в арочной пещерной нише на белом покрове и подушках; на руках, ногах и в боку видны раны."
+    },
+    {
+     "text": "На тёмной стене ниши — церковнославянская надпись «Ангельский собор удивися, зря Тебе в мертвых вменившася»."
+    }
+   ],
+   "image": {
+    "commons_file": "Боровиковский христос во гробе.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+    "width": 2000,
+    "height": 1182,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/330px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/960px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg/1920px-%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "[1]",
+    "alt": "Христос во гробе, Владимир Боровиковский, 1810-е — первая половина 1820-х"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2%D0%BE_%D0%B3%D1%80%D0%BE%D0%B1%D0%B5.jpg"
+    },
+    {
+     "field": "image",
+     "url": "https://www.icon-art.info/hires.php?lng=ru&type=1&id=4198"
+    },
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/17_19/zh-3193/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "fall-hugo-van-der-goes-kunsthistorisches-museum": {
    "subject": "fall",
    "title": "Грехопадение (диптих)",
@@ -8169,6 +9610,55 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "fall-viktor-vasnetsov-st-volodymyr-cathedral": {
+   "subject": "fall",
+   "title": "Искушение",
+   "title_orig": {
+    "text": "Искушение",
+    "lang": "ru"
+   },
+   "artist": "viktor-vasnetsov",
+   "year": 1896,
+   "date_label": "1885–1896",
+   "epoch": "russian",
+   "museum": "st-volodymyr-cathedral",
+   "technique": "настенная роспись",
+   "details": [
+    {
+     "text": "Слева дерево познания: огромный змей обвил ствол, его голова свешивается из кроны к плодам."
+    },
+    {
+     "text": "Справа среди цветов стоит Ева с длинными распущенными волосами; одна рука тянется к плоду, другая задумчиво прижата к лицу — выбор ещё не сделан."
+    },
+    {
+     "text": "Роспись занимает люнет, который снизу прорезан настоящей аркой собора: в проёме видна храмовая люстра."
+    }
+   ],
+   "image": {
+    "commons_file": "Vasnetsov Temptation.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Vasnetsov_Temptation.jpg",
+    "width": 2330,
+    "height": 1619,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Vasnetsov_Temptation.jpg/330px-Vasnetsov_Temptation.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Vasnetsov_Temptation.jpg/960px-Vasnetsov_Temptation.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Vasnetsov_Temptation.jpg/1920px-Vasnetsov_Temptation.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "alt": "Искушение, Виктор Васнецов, 1885–1896"
+   },
+   "attribution_sources": [
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Vasnetsov_Temptation.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "finding-moses-paolo-veronese-prado": {
@@ -8383,6 +9873,64 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "finding-moses-charles-de-la-fosse-louvre": {
+   "subject": "finding-moses",
+   "title": "Моисей, спасённый из вод",
+   "title_orig": {
+    "text": "Moïse sauvé des eaux",
+    "lang": "fr"
+   },
+   "artist": "charles-de-la-fosse",
+   "year": 1701,
+   "date_label": "1701",
+   "epoch": "baroque",
+   "museum": "louvre",
+   "inventory": "INV 4527",
+   "details": [
+    {
+     "text": "Служанка, вытянувшись на берегу, достаёт из воды плетёную корзину с младенцем Моисеем."
+    },
+    {
+     "text": "Над ней в центре — дочь фараона с подругой в нарядных платьях под большим зонтом, который держит темнокожий слуга; одна из женщин указывает рукой на находку."
+    },
+    {
+     "text": "Справа теснятся любопытные служанки, вдали слева в пейзаже виден обелиск — знак Египта."
+    }
+   ],
+   "image": {
+    "commons_file": "Moïse sauvé des eaux - Charle de La Fosse - Musée du Louvre Peintures INV 4527.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg",
+    "width": 2733,
+    "height": 3246,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg/330px-Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg/960px-Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg/1920px-Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "photo Shonagon 2022-06-21",
+    "alt": "Моисей, спасённый из вод, Шарль де Лафосс, 1701"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://collections.louvre.fr/ark:/53355/cl010060687"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q16608430"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Mo%C3%AFse_sauv%C3%A9_des_eaux_-_Charle_de_La_Fosse_-_Mus%C3%A9e_du_Louvre_Peintures_INV_4527.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "flight-egypt-giotto-scrovegni-chapel": {
    "subject": "flight-egypt",
    "title": "Бегство в Египет",
@@ -8585,6 +10133,116 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "flight-egypt-annibale-carracci-doria-pamphilj": {
+   "subject": "flight-egypt",
+   "title": "Пейзаж с бегством в Египет",
+   "title_orig": {
+    "text": "Paesaggio con la fuga in Egitto",
+    "lang": "it"
+   },
+   "artist": "annibale-carracci",
+   "year": 1604,
+   "date_label": "ок. 1604",
+   "epoch": "baroque",
+   "museum": "doria-pamphilj",
+   "inventory": "FC 326",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Полукруглая люнета, где сюжет вписан в обширный «идеальный» пейзаж: в центре на холме — укреплённый город с башнями, на склонах пасутся овцы."
+    },
+    {
+     "text": "Святое семейство мало и сдвинуто к нижнему краю: Мария с Младенцем на руках идёт пешком, Иосиф ведёт осла с красным чепраком к воде, справа у берега ждёт лодочник."
+    }
+   ],
+   "image": {
+    "commons_file": "Annibale Carracci 003.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_003.jpg",
+    "width": 2013,
+    "height": 1053,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Annibale_Carracci_003.jpg/330px-Annibale_Carracci_003.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Annibale_Carracci_003.jpg/960px-Annibale_Carracci_003.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Annibale_Carracci_003.jpg/1920px-Annibale_Carracci_003.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+    "alt": "Пейзаж с бегством в Египет, Аннибале Карраччи, ок. 1604"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q1115595"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_003.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "flight-egypt-fyodor-bruni-tretyakov": {
+   "subject": "flight-egypt",
+   "title": "Богоматерь с младенцем, отдыхающая на пути в Египет",
+   "title_orig": {
+    "text": "Богоматерь с младенцем, отдыхающая на пути в Египет",
+    "lang": "ru"
+   },
+   "artist": "fyodor-bruni",
+   "year": 1838,
+   "date_label": "1838",
+   "epoch": "russian",
+   "museum": "tretyakov",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Полуфигура Марии на тёмном фоне в арочной раме: она спит, склонив голову, укутанная в голубой покров и синий плащ поверх красного платья."
+    },
+    {
+     "text": "Младенец стоит, прижавшись к матери и обхватив её за плечо, и бодрствует — смотрит прямо на зрителя."
+    },
+    {
+     "text": "Признаков пути — осла, Иосифа, пейзажа — нет: о бегстве говорит лишь название, тема — отдых и сон Богоматери."
+    }
+   ],
+   "image": {
+    "commons_file": "Бруни Ф.А. - Богоматерь с младенцем, отдыхающая на пути в Египет - 1838.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC,_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg",
+    "width": 907,
+    "height": 1200,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC%2C_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg/330px-%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC%2C_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg",
+     "960": "https://upload.wikimedia.org/wikipedia/commons/2/26/%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC%2C_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/2/26/%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC%2C_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "art-catalog.ru",
+    "alt": "Богоматерь с младенцем, отдыхающая на пути в Египет, Фёдор Бруни, 1838"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "http://www.art-catalog.ru/picture.php?id_picture=12379"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%80%D1%83%D0%BD%D0%B8_%D0%A4.%D0%90._-_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%81_%D0%BC%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B5%D0%BC%2C_%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%83%D1%82%D0%B8_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82_-_1838.jpg"
+    },
+    {
+     "field": "museum, year",
+     "url": "https://my.tretyakov.ru/app/masterpiece/20586"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "flood-michelangelo-sistine-chapel": {
@@ -8845,6 +10503,61 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "flood-vasily-p-vereshchagin-russian-museum": {
+   "subject": "flood",
+   "title": "Всемирный потоп. Эскиз",
+   "title_orig": {
+    "text": "Всемирный потоп. Эскиз",
+    "lang": "ru"
+   },
+   "artist": "vasily-p-vereshchagin",
+   "year": 1869,
+   "date_label": "1869",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-1456",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Последние люди и звери сгрудились на вершине скалы, которую уже захлёстывают волны; слева поднимается пенный вал."
+    },
+    {
+     "text": "На переднем плане мужчина запрокинулся навзничь, раскинув руки; выше мать прижимает к себе младенца, рядом стоит мальчик."
+    },
+    {
+     "text": "Справа лев и другие звери теснятся рядом с людьми; над мраком — узкая полоса заката под тяжёлыми тучами."
+    }
+   ],
+   "image": {
+    "commons_file": "Всемирный потоп.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg",
+    "width": 1000,
+    "height": 710,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg/330px-%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg/960px-%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/6/67/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.art-catalog.ru/picture.php?id_picture=12528",
+    "alt": "Всемирный потоп. Эскиз, Василий Петрович Верещагин, 1869"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory, technique",
+     "url": "https://goskatalog.ru/portal/#/collections?id=49303815"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BF.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "joseph-potiphar-jacopo-tintoretto-prado": {
    "subject": "joseph-potiphar",
    "title": "Иосиф и жена Потифара",
@@ -9046,6 +10759,64 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "joseph-potiphar-guido-reni-getty": {
+   "subject": "joseph-potiphar",
+   "title": "Иосиф и жена Потифара",
+   "title_orig": {
+    "text": "Joseph and Potiphar's Wife",
+    "lang": "en"
+   },
+   "artist": "guido-reni",
+   "year": 1630,
+   "date_label": "ок. 1630",
+   "epoch": "baroque",
+   "museum": "getty",
+   "inventory": "93.PA.57",
+   "details": [
+    {
+     "text": "Жена Потифара полулежит на ложе под красным пологом и удерживает Иосифа за край золотистого плаща."
+    },
+    {
+     "text": "Иосиф уже отпрянул и отстраняется раскрытой ладонью, оглядываясь на неё; плащ вот-вот останется у неё в руках (Быт 39:12)."
+    },
+    {
+     "text": "Две фигуры почти заполняют холст на тёмном фоне, в окне слева — светлое облачное небо."
+    }
+   ],
+   "image": {
+    "commons_file": "Guido Reni - Joseph and Potiphar's Wife - 93.PA.57 - J. Paul Getty Museum.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg",
+    "width": 4299,
+    "height": 3207,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg/330px-Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg/960px-Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg/1920px-Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "J. Paul Getty Museum",
+    "alt": "Иосиф и жена Потифара, Гвидо Рени, ок. 1630"
+   },
+   "attribution_sources": [
+    {
+     "field": "year, museum, inventory",
+     "url": "https://www.getty.edu/art/collection/object/103RJZ"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q20182297"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Joseph_and_Potiphar%27s_Wife_-_93.PA.57_-_J._Paul_Getty_Museum.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "judith-giorgione-hermitage": {
@@ -9511,6 +11282,117 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "last-supper-juan-de-juanes-prado": {
+   "subject": "last-supper",
+   "title": "Тайная вечеря",
+   "title_orig": {
+    "text": "La Última Cena",
+    "lang": "es"
+   },
+   "artist": "juan-de-juanes",
+   "year": 1562,
+   "date_label": "ок. 1562",
+   "epoch": "mannerism",
+   "museum": "prado",
+   "inventory": "P000846",
+   "technique": "дерево, масло",
+   "details": [
+    {
+     "text": "Христос в центре поднимает гостию над чашей — сцена показана как установление Евхаристии; на столе хлеба, ножи, графин с вином."
+    },
+    {
+     "text": "Имена апостолов вписаны в нимбы; Иуда без нимба сидит на табурете на переднем плане справа, с кошельком, под ним надпись «IVDAS SCARIOTH»."
+    },
+    {
+     "text": "Внизу — кувшин и таз, напоминание об омовении ног."
+    }
+   ],
+   "image": {
+    "commons_file": "Última Cena - Juan de Juanes.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%C3%9Altima_Cena_-_Juan_de_Juanes.jpg",
+    "width": 1920,
+    "height": 1215,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg/330px-%C3%9Altima_Cena_-_Juan_de_Juanes.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg/960px-%C3%9Altima_Cena_-_Juan_de_Juanes.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/b/bc/%C3%9Altima_Cena_-_Juan_de_Juanes.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "[2]",
+    "alt": "Тайная вечеря, Хуан де Хуанес, ок. 1562"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q5965197"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%C3%9Altima_Cena_-_Juan_de_Juanes.jpg"
+    },
+    {
+     "field": "year",
+     "url": "https://commons.wikimedia.org/wiki/File:Última_Cena_-_Juan_de_Juanes.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "last-supper-ilya-repin-novgorod-museum": {
+   "subject": "last-supper",
+   "title": "Тайная вечеря",
+   "title_orig": {
+    "text": "Тайная вечеря",
+    "lang": "ru"
+   },
+   "artist": "ilya-repin",
+   "year": 1903,
+   "date_label": "начало XX в.",
+   "epoch": "russian",
+   "museum": "novgorod-museum",
+   "inventory": "НГМ КП 25581",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Ночной зал, освещённый факелами на высоких подставках: Христос в белом сидит в левой части стола, апостолы теснятся вокруг."
+    },
+    {
+     "text": "На переднем плане Иуда, сидя на скамье спиной к зрителю, тянется рукой к блюду (Мф 26:23); фигуры в глубине зала уходят в темноту."
+    }
+   ],
+   "image": {
+    "commons_file": "Last supper by I E Repin.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Last_supper_by_I_E_Repin.jpg",
+    "width": 2000,
+    "height": 1222,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Last_supper_by_I_E_Repin.jpg/330px-Last_supper_by_I_E_Repin.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Last_supper_by_I_E_Repin.jpg/960px-Last_supper_by_I_E_Repin.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Last_supper_by_I_E_Repin.jpg/1920px-Last_supper_by_I_E_Repin.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "https://novgorod-iss.kamiscloud.ru/entity/OBJECT/128009",
+    "alt": "Тайная вечеря, Илья Репин, начало XX в."
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://novgorod-iss.kamiscloud.ru/entity/OBJECT/128009"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Last_supper_by_I_E_Repin.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "lazarus-giotto-scrovegni-chapel": {
    "subject": "lazarus",
    "title": "Воскрешение Лазаря",
@@ -9714,6 +11596,58 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "lazarus-guercino-louvre": {
+   "subject": "lazarus",
+   "title": "Воскрешение Лазаря",
+   "title_orig": {
+    "text": "La Résurrection de Lazare",
+    "lang": "fr"
+   },
+   "artist": "guercino",
+   "year": 1619,
+   "date_label": "ок. 1619",
+   "epoch": "baroque",
+   "museum": "louvre",
+   "inventory": "INV 77",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Лазарь, обнажённый по пояс, сидит на краю гробницы; юноша развязывает пелены на его руках, старики слева смотрят с изумлением."
+    },
+    {
+     "text": "Христос справа, в красном хитоне и синем плаще, простирает руку к Лазарю; перед ним на коленях смотрит вверх одна из сестёр, ещё одна фигура закрывает лицо."
+    }
+   ],
+   "image": {
+    "commons_file": "Guercino - La Résurrection de Lazare, INV 77 ; MR 258.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Guercino_-_La_R%C3%A9surrection_de_Lazare,_INV_77_;_MR_258.jpg",
+    "width": 1500,
+    "height": 1291,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg/330px-Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg/960px-Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "https://collections.louvre.fr/recherche?q=Le%20Guerchin%20%28Barbieri,%20Giovanni%20Francesco,%20dit%20Il%20Guercino%29&collection%5B0%5D=6",
+    "alt": "Воскрешение Лазаря, Гверчино, ок. 1619"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q4126304"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Guercino_-_La_R%C3%A9surrection_de_Lazare%2C_INV_77_%3B_MR_258.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "martha-mary-jacopo-tintoretto-alte-pinakothek": {
    "subject": "martha-mary",
    "title": "Христос в доме Марфы и Марии",
@@ -9915,6 +11849,62 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "martha-mary-vasily-polenov-russian-museum": {
+   "subject": "martha-mary",
+   "title": "Марфа приняла Его в дом свой",
+   "title_orig": {
+    "text": "Марфа приняла Его в дом свой",
+    "lang": "ru"
+   },
+   "artist": "vasily-polenov",
+   "year": 1890,
+   "date_label": "1890–1900-е",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-2682",
+   "technique": "холст на картоне, масло",
+   "details": [
+    {
+     "text": "Палестинский двор с каменной лестницей: наверху, на площадке у навеса, Марфа в тёмном платье перегнулась через парапет и машет рукой."
+    },
+    {
+     "text": "Внизу справа, в проёме арки, по освещённой улице приближается тёмная фигура путника — Христос; за домом — горный склон."
+    }
+   ],
+   "image": {
+    "commons_file": "Поленов «Марфа приняла его в дом свой».jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg",
+    "width": 2155,
+    "height": 3298,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg/330px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg/960px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg/1920px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://vasily-polenov.ru/",
+    "alt": "Марфа приняла Его в дом свой, Василий Поленов, 1890–1900-е"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q124079130"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%9C%D0%B0%D1%80%D1%84%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB%D0%B0_%D0%B5%D0%B3%D0%BE_%D0%B2_%D0%B4%D0%BE%D0%BC_%D1%81%D0%B2%D0%BE%D0%B9%C2%BB.jpg"
+    },
+    {
+     "field": "date, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh-2682/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "nativity-giotto-scrovegni-chapel": {
@@ -10125,6 +12115,60 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "nativity-el-greco-prado": {
+   "subject": "nativity",
+   "title": "Поклонение пастухов",
+   "title_orig": {
+    "text": "Adoración de los pastores",
+    "lang": "es"
+   },
+   "artist": "el-greco",
+   "year": 1612,
+   "date_label": "ок. 1612–1614",
+   "epoch": "mannerism",
+   "museum": "prado",
+   "inventory": "P002988",
+   "details": [
+    {
+     "text": "Мария приоткрывает пелену над Младенцем, от которого исходит свет, — он выхватывает из тьмы лица Иосифа и пастухов."
+    },
+    {
+     "text": "Старый пастух преклонил колени у самых яслей, рядом видна голова вола; двое других стоят за ним, прижимая руки к груди."
+    },
+    {
+     "text": "Наверху ангелы разворачивают ленту с надписью «Gloria in excelsis», вокруг них кружат херувимы."
+    }
+   ],
+   "image": {
+    "commons_file": "La adoración de los pastores (El Greco).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:La_adoraci%C3%B3n_de_los_pastores_(El_Greco).jpg",
+    "width": 1698,
+    "height": 3051,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg/330px-La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg/960px-La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/3/3f/La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "[1]",
+    "alt": "Поклонение пастухов, Эль Греко, ок. 1612–1614"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q1114913"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:La_adoraci%C3%B3n_de_los_pastores_%28El_Greco%29.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "noli-me-tangere-fra-angelico-san-marco-florence": {
    "subject": "noli-me-tangere",
    "title": "Noli me tangere",
@@ -10329,6 +12373,112 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "noli-me-tangere-rembrandt-royal-collection": {
+   "subject": "noli-me-tangere",
+   "title": "Христос и Мария Магдалина у гроба",
+   "title_orig": {
+    "text": "Christ and St Mary Magdalen at the Tomb",
+    "lang": "en"
+   },
+   "artist": "rembrandt",
+   "year": 1638,
+   "date_label": "1638",
+   "epoch": "baroque",
+   "museum": "royal-collection",
+   "inventory": "RCIN 404816",
+   "technique": "дерево, масло",
+   "details": [
+    {
+     "text": "Христос показан садовником — в широкополой шляпе и с лопатой в руке, — как приняла его Мария Магдалина (Ин 20:15)."
+    },
+    {
+     "text": "Мария на коленях у гроба испуганно оборачивается к нему; справа на гробнице сидят двое ангелов, в глубине — город, внизу слева — две фигуры у ограды."
+    }
+   ],
+   "image": {
+    "commons_file": "Rembrandt van Rijn - Christ and St Mary Magdalen at the Tomb - Google Art Project.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg",
+    "width": 3560,
+    "height": 4291,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg/330px-Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg/960px-Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg/1920px-Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "alt": "Христос и Мария Магдалина у гроба, Рембрандт, 1638"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q21448755"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Rembrandt_van_Rijn_-_Christ_and_St_Mary_Magdalen_at_the_Tomb_-_Google_Art_Project.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "noli-me-tangere-vasily-polenov-samara-art-museum": {
+   "subject": "noli-me-tangere",
+   "title": "Возвестила радость плачущим",
+   "title_orig": {
+    "text": "Возвестила радость плачущим",
+    "lang": "ru"
+   },
+   "artist": "vasily-polenov",
+   "year": 1890,
+   "date_label": "1890–1900-е",
+   "epoch": "russian",
+   "museum": "samara-art-museum",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Сводчатая комната: Мария Магдалина в тёмном плаще стоит в светлом дверном проёме, подняв руку."
+    },
+    {
+     "text": "По комнате сидят люди в покрывалах, погружённые в скорбь — момент, когда весть о Воскресении ещё не услышана (Мк 16:10)."
+    }
+   ],
+   "image": {
+    "commons_file": "Поленов «Возвестила радость плачущим».jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg",
+    "width": 1300,
+    "height": 752,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg/330px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg/960px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://vasily-polenov.ru/",
+    "alt": "Возвестила радость плачущим, Василий Поленов, 1890–1900-е"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, museum",
+     "url": "https://artmus.ru/collection/work-318.html"
+    },
+    {
+     "field": "artist, museum",
+     "url": "https://www.wikidata.org/wiki/Q124129544"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%C2%AB%D0%92%D0%BE%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BB%D0%B0_%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D0%BC%C2%BB.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "prodigal-son-rembrandt-gemaeldegalerie-dresden": {
    "subject": "prodigal-son",
    "title": "Блудный сын в таверне",
@@ -10531,6 +12681,62 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "prodigal-son-vasily-polenov-tretyakov": {
+   "subject": "prodigal-son",
+   "title": "Блудный сын (эскиз)",
+   "title_orig": {
+    "text": "Блудный сын",
+    "lang": "ru"
+   },
+   "artist": "vasily-polenov",
+   "year": 1874,
+   "date_label": "1874",
+   "epoch": "russian",
+   "museum": "tretyakov",
+   "inventory": "Инв. 5985",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Эскиз пира: пространство огромного зала с колоннами в египетском духе, капители в виде папирусов."
+    },
+    {
+     "text": "Фигуры пирующих едва намечены беглыми тёмно-зелёными и красными мазками; это сцена «расточения имения», а не возвращения."
+    }
+   ],
+   "image": {
+    "commons_file": "Поленов Блудный сын.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg",
+    "width": 1970,
+    "height": 1163,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg/330px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg/960px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg/1920px-%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.art-catalog.ru/picture.php?id_picture=5986",
+    "alt": "Блудный сын (эскиз), Василий Поленов, 1874"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q124246575"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2_%D0%91%D0%BB%D1%83%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%8B%D0%BD.jpg"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://my.tretyakov.ru/app/masterpiece/10788"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   },
   "sacrifice-isaac-andrea-del-sarto-gemaeldegalerie-dresden": {
@@ -10987,6 +13193,61 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "samson-delilah-fyodor-zavyalov-academy-of-arts-museum": {
+   "subject": "samson-delilah",
+   "title": "Самсон разрушает храм филистимлян",
+   "title_orig": {
+    "text": "Самсон разрушает храм филистимлян",
+    "lang": "ru"
+   },
+   "artist": "fyodor-zavyalov",
+   "year": 1836,
+   "date_label": "1836",
+   "epoch": "russian",
+   "museum": "academy-of-arts-museum",
+   "inventory": "Ж-341",
+   "details": [
+    {
+     "text": "Самсон, показанный со спины, упёрся руками в колонны храма — момент перед обрушением (Суд 16:29–30)."
+    },
+    {
+     "text": "Филистимляне в ужасе: юноша с посохом упал на колено и смотрит вверх, женщина уводит прильнувшего к ней ребёнка, за колоннами люди вскидывают руки."
+    }
+   ],
+   "image": {
+    "commons_file": "Fyodor Zav'yalov, Death of Samson, 1836, Museum of the Academy of Arts, St. Petersburg Ж-341.jpeg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Fyodor_Zav%27yalov,_Death_of_Samson,_1836,_Museum_of_the_Academy_of_Arts,_St._Petersburg_%D0%96-341.jpeg",
+    "width": 1522,
+    "height": 1996,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg/330px-Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg/960px-Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "Assembled from: Завьялов Ф.С. Самсон разрушает храм филистимлян. 1836 | Музей Академии художеств. Коллекции онлайн",
+    "alt": "Самсон разрушает храм филистимлян, Фёдор Завьялов, 1836"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://collection.artsacademymuseum.org/entity/OBJECT/29702"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q136796768"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Fyodor_Zav%27yalov%2C_Death_of_Samson%2C_1836%2C_Museum_of_the_Academy_of_Arts%2C_St._Petersburg_%D0%96-341.jpeg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "susanna-jacopo-tintoretto-kunsthistorisches-museum": {
    "subject": "susanna",
    "title": "Сусанна и старцы",
@@ -11191,6 +13452,125 @@ window.DATA = {
     "date": "2026-10-02"
    }
   },
+  "susanna-pyotr-basin-russian-museum": {
+   "subject": "susanna",
+   "title": "Сусанна, застигнутая старцами в купальне",
+   "title_orig": {
+    "text": "Сусанна, застигнутая старцами в купальне",
+    "lang": "ru"
+   },
+   "artist": "pyotr-basin",
+   "year": 1822,
+   "date_label": "1822",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-5072",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Старцы подступили к Сусанне у купальни: один прижимает палец к губам, требуя молчать, другой из-за парапета тянется к её плечу."
+    },
+    {
+     "text": "Сусанна прикрывается белой тканью и отталкивает его вытянутой рукой; справа из львиной маски в бассейн бьёт струя воды."
+    }
+   ],
+   "image": {
+    "commons_file": "Петро В.Басін - Сусанна, застигнутая старцами в купальне (1822г).jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0,_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_(1822%D0%B3).jpg",
+    "width": 1400,
+    "height": 1908,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg/330px-%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg/960px-%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "gallerix.ru",
+    "alt": "Сусанна, застигнутая старцами в купальне, Пётр Басин, 1822"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory, technique",
+     "url": "https://goskatalog.ru/portal/#/collections?id=25807184"
+    },
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q131575129"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%92.%D0%91%D0%B0%D1%81%D1%96%D0%BD_-_%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D1%81%D1%82%D0%B8%D0%B3%D0%BD%D1%83%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D1%86%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%281822%D0%B3%29.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
+  "susanna-grigory-lapchenko-russian-museum": {
+   "subject": "susanna",
+   "title": "Сусанна и старцы",
+   "title_orig": {
+    "text": "Сусанна и старцы",
+    "lang": "ru"
+   },
+   "artist": "grigory-lapchenko",
+   "year": 1831,
+   "date_label": "1831",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-5103",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Сусанна сидит у фонтана на красном покрывале, поднимает над головой белую ткань и оборачивается к зрителю."
+    },
+    {
+     "text": "Старцы оттеснены в левый угол: двое, один в чалме, выглядывают из-за кустов."
+    },
+    {
+     "text": "На плитах брошены сандалии, через край чаши фонтана стекает вода; за садом видна колоннада."
+    }
+   ],
+   "image": {
+    "commons_file": "Сусанна и старцы.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg",
+    "width": 750,
+    "height": 1005,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg/330px-%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg",
+     "960": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg",
+     "1920": "https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "http://www.artsait.ru/foto.php?art=l/lapchenko/img/3",
+    "alt": "Сусанна и старцы, Григорий Лапченко, 1831"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/17_19/zh_5103/index.php"
+    },
+    {
+     "field": "artist, year, museum, inventory",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg"
+    },
+    {
+     "field": "artist, year",
+     "url": "http://www.artsait.ru/foto.php?art=l/lapchenko/img/3"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%83%D1%81%D0%B0%D0%BD%D0%BD%D0%B0_%D0%B8_%D1%81%D1%82%D0%B0%D1%80%D1%86%D1%8B.jpg"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
+   }
+  },
   "temptation-duccio-di-buoninsegna-frick": {
    "subject": "temptation",
    "title": "Искушение Христа на горе",
@@ -11392,6 +13772,66 @@ window.DATA = {
    "check": {
     "status": "checked",
     "date": "2026-10-02"
+   }
+  },
+  "temptation-ilya-repin-russian-museum": {
+   "subject": "temptation",
+   "title": "Иди за мною, Сатано (эскиз)",
+   "title_orig": {
+    "text": "Иди за мною, сатано",
+    "lang": "ru"
+   },
+   "artist": "ilya-repin",
+   "year": 1895,
+   "date_label": "1895 (?)",
+   "epoch": "russian",
+   "museum": "russian-museum",
+   "inventory": "Ж-2779",
+   "technique": "холст, масло",
+   "details": [
+    {
+     "text": "Эскиз написан широкими пастозными мазками: Христос в светлых одеждах показан со спины, на вершине скалы над морем."
+    },
+    {
+     "text": "Рядом — тёмная крылатая фигура искусителя в шлеме, со щитом; вокруг неё разбрызганы красные, огненные пятна."
+    }
+   ],
+   "image": {
+    "commons_file": "Ilya Repin - Get Thee Behind Me, Satan - 1895.png",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:Ilya_Repin_-_Get_Thee_Behind_Me,_Satan_-_1895.png",
+    "width": 2436,
+    "height": 1754,
+    "thumbs": {
+     "330": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png/330px-Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png",
+     "960": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png/960px-Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png",
+     "1920": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png/1920px-Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png"
+    },
+    "license": "Public domain",
+    "license_code": "pd",
+    "credit": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh-2779/index.php?lang=en",
+    "alt": "Иди за мною, Сатано (эскиз), Илья Репин, 1895 (?)"
+   },
+   "attribution_sources": [
+    {
+     "field": "artist, year, museum",
+     "url": "https://www.wikidata.org/wiki/Q118499697"
+    },
+    {
+     "field": "museum",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh-2779/index.php?lang=en"
+    },
+    {
+     "field": "image",
+     "url": "https://commons.wikimedia.org/wiki/File:Ilya_Repin_-_Get_Thee_Behind_Me%2C_Satan_-_1895.png"
+    },
+    {
+     "field": "year, museum, inventory",
+     "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh-2779/index.php"
+    }
+   ],
+   "check": {
+    "status": "checked",
+    "date": "2026-10-03"
    }
   }
  }

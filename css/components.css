@@ -290,6 +290,8 @@
 }
 @media (min-width: 1280px) {
   .grid--gallery { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+  /* 6 картин — два ряда по 3, без одинокой карточки во втором ряду */
+  .grid--gallery:has(> :nth-child(6)) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .subject__body { max-width: none; }
   .subject__body > .retelling, .subject__body > .quote { max-width: 860px; }
 }
