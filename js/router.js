@@ -33,6 +33,9 @@
     if (m && description) m.setAttribute('content', description);
   }
 
+  /** Маршрут статической страницы сюжета или картины (tools/prerender.mjs): <body data-prerender="#/subject/x">. */
+  function prerendered() { return (document.body && document.body.getAttribute('data-prerender')) || ''; }
+
   var VIEWS = { home: 'home', subject: 'subject', painting: 'painting', compare: 'compare', search: 'results', about: 'about' };
 
   function render() {
@@ -42,9 +45,10 @@
       if (t) { if (!t.hasAttribute('tabindex')) t.setAttribute('tabindex', '-1'); t.focus(); }
       if (current != null) return;
       // Первая загрузка с якорем вместо маршрута (#main после F5) — рисуем главную (CR-3).
-      if (history.replaceState) history.replaceState(null, '', '#/');
+      // На статической странице (prerender) — её же маршрут, без якоря.
+      if (history.replaceState) history.replaceState(null, '', prerendered() ? location.pathname + location.search : '#/');
     }
-    var r = parse(location.hash), first = current == null;
+    var r = parse(location.hash || prerendered()), first = current == null;
     // Новый <main> без обработчиков прошлого экрана: mount() вешает их на el, innerHTML их не снимает (CR-2).
     var old = document.getElementById('main'), main = old.cloneNode(false);
     old.parentNode.replaceChild(main, old);
@@ -92,5 +96,5 @@
     render();
   }
 
-  App.router = { parse: parse, href: href, searchHref: searchHref, go: go, replace: replace, start: start, render: render, setMeta: setMeta };
+  App.router = { parse: parse, prerendered: prerendered, href: href, searchHref: searchHref, go: go, replace: replace, start: start, render: render, setMeta: setMeta };
 })(window);

@@ -251,9 +251,16 @@
   /* «Поделиться» (spec §9.5): Web Share → буфер обмена → execCommand('copy') → поле для ручного копирования. */
   /* CR2-12: на file:// локальный путь (с именем пользователя системы) не отдаём — либо ссылка от meta.public_base_url, либо null. */
   var LOCAL_SHARE_MSG = 'Ссылка заработает после публикации сайта';
+  /* Сюжет и картина — ссылка на статическую страницу (tools/prerender.mjs): у неё og-превью в мессенджерах. */
+  var STATIC_DIR = { subject: 's/', painting: 'p/' };
   function shareLink(url) {
     var base = ((S() && S().data && S().data.meta) || {}).public_base_url;
-    if (location.protocol === 'file:') {
+    var r = App.router.parse(location.hash || App.router.prerendered());
+    if (base && STATIC_DIR[r.name] && r.args[0] && S() && Object.prototype.hasOwnProperty.call(S().data[r.name === 'subject' ? 'subjects' : 'paintings'], r.args[0])) {
+      return String(base).replace(/#.*$/, '') + STATIC_DIR[r.name] + encodeURIComponent(r.args[0]) + '/';
+    }
+    // На file:// и на статической странице (s/x/#/search…) — адрес от корня публикации.
+    if (location.protocol === 'file:' || (base && App.router.prerendered())) {
       if (!base) return null;
       return String(base).replace(/#.*$/, '') + location.hash;
     }
